@@ -1,4 +1,6 @@
-# TIC_TAC+_TOE
+# TIC_TAC![preview](https://user-images.githubusercontent.com/114246727/210274435-41ca6696-7348-4113-901f-8d76dde0ab86.gif)
+![preview](https://user-images.githubusercontent.com/114246727/210274455-f284b915-39a7-48e4-8170-1178b04a49c8.gif)
+_TOE
 tic tac toe game app
 
 ----****_____......
