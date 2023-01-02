@@ -1,4 +1,4 @@
-# sync----internship
+# TIC_TAC+_TOE
 tic tac toe game app
 
 ----****_____......
